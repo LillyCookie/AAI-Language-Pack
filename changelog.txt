@@ -1,3 +1,13 @@
+Version: 1.1.5
+Date: 24. 11. 2020
+  Features:
+    - Added Russian locale for AAI Containers & Warehouses v0.2.1 (Shadow_Man)
+  Updates:
+    - Updated to Factorio v1.1
+    - Updated Russian locale for AAI Industry v0.5.1 (Shadow_Man)
+    - Updated Russian locale for AAI Signal Transmission v0.4.1 (Shadow_Man)
+    - Fix some typos
+
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.4
 Date: 06. 08. 2020
