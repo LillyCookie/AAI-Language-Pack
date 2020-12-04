@@ -1,3 +1,9 @@
+Version: 1.1.7
+Date: 04. 12. 2020
+  Updates:
+    - Updated Russian locale for AAI Containers & Warehouses v0.2.3 (Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.1.6
 Date: 29. 11. 2020
   Updates:
